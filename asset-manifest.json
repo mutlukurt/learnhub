@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/learnhub/static/css/main.bbfa0493.css",
+    "main.js": "/learnhub/static/js/main.7f2f0f0f.js",
+    "index.html": "/learnhub/index.html",
+    "main.bbfa0493.css.map": "/learnhub/static/css/main.bbfa0493.css.map",
+    "main.7f2f0f0f.js.map": "/learnhub/static/js/main.7f2f0f0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbfa0493.css",
+    "static/js/main.7f2f0f0f.js"
+  ]
+}
