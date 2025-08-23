@@ -2,16 +2,16 @@
 
 A modern, mobile-responsive React application for online learning and career development.
 
+## 🚀 Live Demo
+
+**Visit the live application**: [https://mutlukurt.github.io/learnhub](https://mutlukurt.github.io/learnhub)
+
 ## 🌟 Features
 
 - **Mobile-First Design**: Fully responsive across all devices
 - **Modern UI/UX**: Clean, professional interface with smooth animations
 - **Interactive Components**: Dynamic testimonials, smooth scrolling navigation
 - **Professional Layout**: Hero section, courses, instructor opportunities, and more
-
-## 🚀 Live Demo
-
-**Visit the live application**: [https://mutlukurt.github.io/learnhub](https://mutlukurt.github.io/learnhub)
 
 ## 🛠️ Technology Stack
 
